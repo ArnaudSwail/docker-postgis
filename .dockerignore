@@ -1,2 +1,5 @@
 Dockerfile
 .git
+*~
+/.build_*
+*/.build_*
